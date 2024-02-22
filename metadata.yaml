@@ -1,0 +1,40 @@
+_repo: Buddenbrooks-volume-2-of-2_72962
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lowe-Porter, Helen Tracy
+    gutenberg_agent_id: '56885'
+    url: http://www.gutenberg.org/2009/agents/56885
+creator:
+  author:
+    agent_name: Mann, Thomas
+    aliases:
+    - Mann, Paul Thomas
+    - Thomas, Paul
+    birthdate: 1875
+    deathdate: 1955
+    gutenberg_agent_id: '4200'
+    url: http://www.gutenberg.org/2009/agents/4200
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Thomas_Mann
+    - https://de.wikipedia.org/wiki/Thomas_Mann
+description: ''
+gutenberg_issued: '2024-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72962'
+language: en
+pgterms:marc905: 20200527023448mann
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bAlfred A. Knopf, $c1924, reprint 1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Buddenbrooks, volume 2 of 2
+url: http://www.gutenberg.org/ebooks/72962
